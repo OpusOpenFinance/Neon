@@ -30,6 +30,6 @@ The Opus Open Finance Platform has a module that runs as an independent service,
 
 ![MCP](./images/Pcm.png)
 
-## More Information
+## More Information 
 
 For more details about the Metrics Collection Platform, [click here](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/37945356/Especifica+o+T+cnica).
